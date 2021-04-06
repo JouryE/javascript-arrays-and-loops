@@ -6,6 +6,7 @@
 
 const names = ["Henk", "Piet", "Fred", "Joop"];
 
+
 // Verwachtte uitkomsten:
 // Vóór het script zie je de originele waardes:
 // console.log(names) geeft: ["Henk", "Piet", "Fred", "Joop"]
